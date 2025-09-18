@@ -89,3 +89,4 @@ Ao ser executado, o script irá imprimir no terminal uma mensagem de sucesso par
 -> E-mail de cobrança para Empresa Alpha enviado com sucesso!
 -> E-mail de cobrança para Consultoria Gama enviado com sucesso!
 ```
+E os respectivos clientes receberão um e-mail personalizado em suas caixas de entrada.
