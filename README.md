@@ -85,3 +85,7 @@ Siga os passos abaixo para executar o projeto em sua máquina local.
 ## 📈 Exemplo de Saída
 
 Ao ser executado, o script irá imprimir no terminal uma mensagem de sucesso para cada e-mail de cobrança enviado:
+```
+-> E-mail de cobrança para Empresa Alpha enviado com sucesso!
+-> E-mail de cobrança para Consultoria Gama enviado com sucesso!
+```
